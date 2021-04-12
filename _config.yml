@@ -212,7 +212,7 @@ defaults:
   # _OpenShift
   - scope:
       path: ""
-      type: teaching
+      type: OpenShift
     values:
       layout: single
       author_profile: true
