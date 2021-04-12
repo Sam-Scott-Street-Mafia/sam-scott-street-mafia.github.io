@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : #"Your Sidebar Name"
+  name             : "AutomateWithAnsible"
   avatar           : "profile.png"
   bio              : #"Your biography for the left-hand sidebar"
   location         : #"Location"
@@ -209,7 +209,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # _OpenShift
   - scope:
       path: ""
       type: teaching
