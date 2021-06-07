@@ -291,7 +291,7 @@ p {
 	flex-direction: column;
 	padding: 30px;
 	border-radius: 10px;
-	background-image: url(img/me.jpg.png);
+	background-image: url(img/2.png);
 	background-size: cover;
 	margin: 10px 5%;
 	position: relative;
@@ -679,11 +679,11 @@ p {
 	}
 	#header .nav-list ul {
 		position: initial;
-		display: block;
-		height: auto;
-		width: fit-content;
-		background-color: transparent;
-	}
+  }
+  display: block;
+  height: auto;
+  width: fit-content;
+  background-color: transparent;
 	#header .nav-list ul li {
 		display: inline-block;
 	}
