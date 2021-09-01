@@ -48,8 +48,8 @@ p {
 .cta {
   display: inline-block;
   padding: 10px 30px;
-  color: white;
-  background-color: transparent;
+  color: #f1e4e4;
+  background-color: #29323c;
   border: 2px solid crimson;
   font-size: 2rem;
   text-transform: uppercase;
@@ -321,7 +321,7 @@ p {
   text-transform: uppercase;
 }
 #services .service-item p {
-  color: black;
+  color: #ffffff;
   text-align: left;
 }
 /* End Services Section */
@@ -424,7 +424,7 @@ p {
   margin-bottom: 20px;
 }
 #about .col-right .cta {
-  color: black;
+  color: #f3ebeb;
   margin-bottom: 50px;
   padding: 10px 20px;
   font-size: 2rem;
@@ -471,6 +471,11 @@ p {
   flex-direction: column;
   box-shadow: 0px 0px 18px 0 #0000002c;
   transition: 0.3s ease box-shadow;
+}
+
+.contact-item {
+    background-color: #29323c;
+    color: #fffefe;
 }
 #contact .contact-item:hover {
   box-shadow: 0px 0px 5px 0 #0000002c;
