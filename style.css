@@ -321,7 +321,7 @@ p {
   text-transform: uppercase;
 }
 #services .service-item p {
-  color: white;
+  color: black;
   text-align: left;
 }
 /* End Services Section */
